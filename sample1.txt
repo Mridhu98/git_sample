@@ -1,0 +1,1 @@
+hi good to learn how to connect git with VSCODE
